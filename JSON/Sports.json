@@ -1,0 +1,34 @@
+[
+    {
+        "name": "Phoenix Suns",
+        "address":"201 E Jefferson St, Phoenix, AZ 85004",
+        "map":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3329.1370035715418!2d-112.07338898480079!3d33.44573698077529!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x872b156ccf48c66f%3A0x7a220f94e2bf245b!2sFootprint%20Center!5e0!3m2!1sen!2sus!4v1648672895404!5m2!1sen!2sus",
+        "info":"Footprint Center is a multi-purpose arena in Phoenix, Arizona. Built in the regional population epicenter of Arizona, being home of the Phoenix Suns, With also having the best record in the National Basketball Association! ",
+        "image":"Sports/Phoenix Suns.jpg",
+        "website":"https://www.footprintcenter.com/"
+    },
+    {
+        "name": "Arizona Cardinals",
+        "address":"1 Cardinals Dr, Glendale, AZ 85305",
+        "map":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3325.9908055602446!2d-112.2647479847987!3d33.52762468075194!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x872b40484caa40dd%3A0xb9c497aa9569305b!2sState%20Farm%20Stadium!5e0!3m2!1sen!2sus!4v1648673091094!5m2!1sen!2sus"   ,
+        "info":"State Farm Stadium is a multi-purpose stadium in Glendale, Arizona, United States, west of Phoenix. It is the home of the Arizona Cardinals of the National Football League and the annual Fiesta Bowl. State Farm Stadium replaced Sun Devil Stadium in Tempe as the home of the Cardinals.",
+        "image":"Sports/Arizona Cardinals.jpg",
+        "website":"https://www.statefarmstadium.com/"
+    },
+    {
+        "name":"Arizona Diamondbacks",
+        "address":"401 E Jefferson St, Phoenix, AZ 85004",
+        "map":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3329.152455026804!2d-112.06889778480081!3d33.44533438077553!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x872b11f5f3e35ef1%3A0x6638344b3ba1625e!2sChase%20Field!5e0!3m2!1sen!2sus!4v1648673196769!5m2!1sen!2sus" ,
+        "info":"Chase Field, formerly Bank One Ballpark, is a retractable roof stadium in Downtown Phoenix, Arizona. It is the home of Major League Baseball's Arizona Diamondbacks. ",
+        "image":"Sports/Arizona Diamondbacks.jpg",
+        "website":"https://www.mlb.com/dbacks/ballpark/information"
+    },
+    {
+        "name":"Arizona Coyotes",
+        "address":"9400 W Maryland Ave, Glendale, AZ 85305",
+        "map":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3325.8196648565263!2d-112.26340498479851!3d33.53207398075075!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x872b4035fb76e9cb%3A0x47f4e4e0da5d86f4!2sGila%20River%20Arena!5e0!3m2!1sen!2sus!4v1648673318668!5m2!1sen!2sus"  ,
+        "info":"Gila River Arena is a multi-purpose entertainment arena located Glendale, Arizona. The arena anchors the 223-acre, $1 billion development Westgate Entertainment District. The Gila River Arena is also the home of the Arizona Coyotes of the National Hockey League." ,
+        "image":"Sports/Arizona Coyotes.jpg",
+        "website":"https://www.gilariverarena.com/"
+    }
+]

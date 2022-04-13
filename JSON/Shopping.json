@@ -1,0 +1,75 @@
+[
+    {
+        "name": "Outlets at Anthem",
+        "address":"4250 W Anthem Way, Phoenix, AZ 85086",
+        "map":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3312.6194936612355!2d-112.15179748478967!3d33.87369588065493!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x872c9e0c236e81ff%3A0xcc8c8480d267296b!2sOutlets%20at%20Anthem!5e0!3m2!1sen!2sus",
+        "info":"Outlets at Anthem is located in Phoenix, Arizona has 37 stores. It is one of the most popular outlet mall in Arizona beacuse of their Decoration during the hoilday season.",
+        "image":"Shopping/Outlets at Anthem.jpg",
+        "website":"https://www.outletsanthem.com/"
+    },
+    {
+        "name": "Phoenix General Store",
+        "address":"214 E Roosevelt St, Phoenix, AZ 85004",
+        "map":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d53239.99603992872!2d-112.10306659543816!3d33.48837262520216!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x872b1368ea36500b%3A0xd6f1c2f2af6a3b06!2sPhoenix%20General!5e0!3m2!1sen!2sus!4v1648584857344!5m2!1sen!2sus", 
+        "info":"The Phoenix General Store has clothing, gifts, and home products that are inspired by the life in a desert city.It is very popular for it's clothes beacuse it has won the Best Clothing Store award 2 years in a row.",
+        "image":"Shopping/Phoenix General Store.jpg",
+        "website":"https://phxgeneral.com/"
+    },
+    {
+        "name":"Tempe Marketplace",
+        "address":"2000 E Rio Salado Pkwy, Tempe, AZ 85281",
+        "map":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3329.6257786238775!2d-111.90771648480111!3d33.43299948077896!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x872b090b6dae72cf%3A0xea2d535d1d045a19!2sTempe%20Marketplace!5e0!3m2!1sen!2sus!4v1648585043306!5m2!1sen!2sus"  ,
+        "info":"Tempe Marketplace has over 100 shops and restaurants to choose from and has many events. It is the best place for out-of-town visitors beacuse of it's of vibrant outdoor environment, cozy fireplaces, unique water features and lsuh landscape.",
+        "image":"Shopping/Tempe Marketplace.jpg",
+        "website":"https://tempemarketplace.com/"
+
+    },
+    {
+        "name":"Cameron Trading Post",
+        "address":"466 US-89, Cameron, AZ 86020",
+        "map":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3232.9136345132083!2d-111.41576428473577!3d35.87563328014949!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x873307eb794f285d%3A0x76b9f77f187f60bf!2sCameron%20Trading%20Post!5e0!3m2!1sen!2sus!4v1648585212370!5m2!1sen!2sus",
+        "info":"Cameron Trading Post has stores, restaurants and hotels. Their shop have Native Amercian jewelry, pottery, basketry and more." ,
+        "image":"Shopping/Cameron Trading Post.jpg",
+        "website":"https://camerontradingpost.com/"
+    },
+    {
+        "name":"Pinspiration Peoria",
+        "address":"6520 W Happy Valley Rd Suite B-103, Glendale, AZ 85310",
+        "map":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d850749.8151705157!2d-112.8869029141082!3d33.59903880272106!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x872b670e15a597e9%3A0x5f7c81f2abe5fa2c!2sPinspiration%20Peoria!5e0!3m2!1sen!2sus!4v1648585307395!5m2!1sen!2sus" ,
+        "info":"Pinspiration Peoria is a DIY Craft Studio where people can work on projects together.It is one of the best craft studio in Arizona. You can make anything from cups to decorations for a party." ,
+        "image":"Shopping/Pinspiration Peoria.jpg",
+        "website":"https://www.pinspiration.com/locations/phoenix/"
+    },
+    {
+        "name":"Tlaquepaque Arts & Shopping Village",
+        "address":"336 AZ-179, Sedona, AZ 86336",
+        "map":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3273.7609610481295!2d-111.76537818476346!3d34.86223318039331!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x872da1560b274a87%3A0xc133eeb0c9f176b3!2sTlaquepaque%20Arts%20%26%20Shopping%20Village!5e0!3m2!1sen!2sus!4v1648585425251!5m2!1sen!2sus",
+        "info":"Tlaquepaque Arts & Shopping Village is one of the best and distinctive places to shop in Sedona. All of the their shops have authenticate fashion design from a traditional mexican village." ,
+        "image":"Shopping/Tlaquepaque Arts _ Shopping Village.jpg",
+        "website":"https://www.tlaq.com/"
+    },
+    {
+        "name":"Biltmore Fashion Park",
+        "address":"2502 E Camelback Rd, Phoenix, AZ 85016",
+        "map":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3326.634954454856!2d-112.03012528479913!3d33.51087348075677!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x872b0d6c742c3efd%3A0xd00654db499f3cca!2sBiltmore%20Fashion%20Park!5e0!3m2!1sen!2sus!4v1648585507894!5m2!1sen!2sus",
+        "info":"Biltmore Fashion Park is a luxury shopping center in the Biltmore District. It has alot of luxury stores from around the world." ,
+        "image":"Shopping/Biltmore Fashion Park.jpg",
+        "website":"https://www.shopbiltmore.com/"
+    },
+    {
+        "name":"Mountain Vista Plaza",
+        "address":"15557 W Bell Rd, Surprise, AZ 85374",
+        "map":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1695883.8847816805!2d-116.31056955087406!3d33.88261679051299!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x872b452f7848490f%3A0x75e871f8ed7c4153!2sMountain%20Vista%20Plaza!5e0!3m2!1sen!2sus!4v1648585670189!5m2!1sen!2sus" ,
+        "info":"Mountain Vista Plaza is a busy shopping center in Surpise, AZ. It has one of the biggest planet fitness in Arizona.",
+        "image":"Shopping/Mountain Vista Plaza.jpg",
+        "website":"https://www.planetfitness.com/gyms/?utm_source=google&utm_medium=paidsearch&gclid=Cj0KCQjw3IqSBhCoARIsAMBkTb2ISoieiaCuGuvgzjdkXJDYJy1NBOlNgRntxjU-_lb0tcu1LqiJ8HwaAmIJEALw_wcB"
+    },
+    {
+        "name":"Litchfield Marketplace",
+        "address":"13830 W Camelback Rd, Litchfield Park, AZ 85340",
+        "map":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3326.68525171573!2d-112.35834033457208!3d33.50956518075717!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x872b472294e19305%3A0xe977cac3d4d3cc2c!2sLitchfield%20Marketplace%20(Shopping%20Center)!5e0!3m2!1sen!2sus!4v1648585947560!5m2!1sen!2sus"  ,
+        "info":"Litchfield Marketplace is a newly built shopping center. It has many restaurants and stores through out the mall.",
+        "image":"Shopping/Litchfield Marketplace.jpg",
+        "website":"https://www.frysfood.com/"
+    }
+]

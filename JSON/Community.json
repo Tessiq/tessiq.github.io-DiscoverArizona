@@ -1,0 +1,90 @@
+[
+    {
+        "name": "Saguaro National Park",
+        "address":"Arizona",
+        "map":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d432058.342616482!2d-111.15385942855497!3d32.21889158123453!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x86d66fba16567663%3A0x91c796bfe5ae8e2a!2sSaguaro%20National%20Park!5e0!3m2!1sen!2sus!4v1648670863729!5m2!1sen!2sus",
+        "info":"Saguaro National Park is in southern Arizona. Its 2 sections are on either side of the city of Tucson. The park is named for the large saguaro cactus, native to its desert environment. In the western Tucson Mountain District,  In the eastern Rincon Mountain District, Cactus Forest Drive is a loop road with striking views of the desert landscape. ",
+        "image":"Community/Saguaro National Park.jpg",
+        "website":"https://www.nps.gov/sagu/index.htm"
+    },
+    {
+        "name": "Petrified Forest National Park",
+        "address":"Arizona",
+        "map":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d418417.70208985533!2d-110.0587148016869!3d34.98446257666757!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x872f9d467285101b%3A0xaecfe94549b435bf!2sPetrified%20Forest%20National%20Park!5e0!3m2!1sen!2sus!4v1648671229098!5m2!1sen!2sus"  ,
+        "info":"Petrified Forest National Park is in northeastern Arizona. In its south, the Rainbow Forest is full of colorful petrified wood. It’s home to the Rainbow Forest Museum, with its paleontology exhibits and many trail access points. In the park's center are the petroglyphs of the people who lived there. To the north, the Painted Desert Inn, a 1930s adobe building, is a museum with Hopi murals. ",
+        "image":"Community/Petrified Forest National Park.jpg",
+        "website":"https://www.nps.gov/pefo/index.htm/index.htm"
+    },
+    {
+        "name":"Papago Park",
+        "address":"625 N Galvin Pkwy, Phoenix, AZ 85008",
+        "map":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d13316.17557476099!2d-111.9486433125047!3d33.44816294239189!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x872b094c930b8367%3A0xc08aad56fd4264a7!2sPapago%20Park!5e0!3m2!1sen!2sus!4v1648671388573!5m2!1sen!2sus",
+        "info":"Papago Park is a municipal park of the cities of Phoenix and Tempe, Arizona, United States. It has been designated as a Phoenix Point of Pride. It includes Hunt's Tomb, which is listed on the National Register of Historic Places.",
+        "image":"Community/Papago Park.jpg",
+        "website":"https://www.phoenix.gov/parks/trails/locations/papago-park"
+    },
+    {
+        "name":"Surprise Community Park",
+        "address":"16089 N Bullard Ave, Surprise, AZ 85374",
+        "map":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3322.046681802799!2d-112.37799668479603!3d33.63003158072289!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x872b44dbccec48c3%3A0xdf080a4010b0cbfb!2sSurprise%20Community%20Park!5e0!3m2!1sen!2sus!4v1648671684340!5m2!1sen!2sus" ,
+        "info":"Popular park with a fishing pond, gazebos & BBQ grills, plus a playground & paved walking path." ,
+        "image":"Community/Surprise Community Par.jpg",
+        "website":"https://www.surpriseaz.gov/229/Parks-Facilities"
+    },
+    {
+        "name":"The Rose Garden At MCC",
+        "address":"w, 1833 W Southern Ave, Mesa, AZ 85202",
+        "map":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3331.1680264767133!2d-111.87325028480217!3d33.392780280790426!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x872b07e39ebd4761%3A0x27bc2a7b5542e29a!2sThe%20Rose%20Garden%20At%20MCC!5e0!3m2!1sen!2sus!4v1648671839232!5m2!1sen!2sus",
+        "info":"This sprawling garden at Mesa Community College features close to 9,000 rose bushes." ,
+        "image":"Community/The Rose Garden At MCC.jpg",
+        "website":"https://rosegarden.mesacc.edu/home.html"
+    },
+    {
+        "name":"Hall of Flame Fire Museum",
+        "address":"6101 E Van Buren St, Phoenix, AZ 85008",
+        "map":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3329.0670593096584!2d-111.95536538480076!3d33.447559380774884!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x872b094aeab53bef%3A0xd57526fa9ca3fd54!2sHall%20of%20Flame%20Fire%20Museum!5e0!3m2!1sen!2sus!4v1648671959071!5m2!1sen!2sus"  ,
+        "info":"The National Historical Fire Foundation is a museum dedicated to the historical preservation of firefighting equipment used through the years around the world. This Museum has many firefighting history and stories to tell about these firefighters. " ,
+        "image":"Community/Hall of Flame Fire Museum.jpg",
+        "website":"https://hallofflame.org/"
+    },
+    {
+        "name":"Estrella Star Tower",
+        "address":"Estrella Pkwy, Goodyear, AZ 85338",
+        "map":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3331.918792260237!2d-112.40392258480267!3d33.37318608079598!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x872b3a2319933213%3A0x7556ac3842e680c0!2sEstrella%20Star%20Tower!5e0!3m2!1sen!2sus!4v1648672129829!5m2!1sen!2sus"  ,
+        "info":"The Estrella Star Tower is a 50-foot high, spiralling monument with amazing views at nights." ,
+        "image":"Community/Estrella Star Towe.jpg",
+        "website":"https://estrella.com/Location"
+    },
+    {
+        "name":"Encanto Park",
+        "address":"2605 N 15th Ave, Phoenix, AZ 85007",
+        "map":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d13311.85735824384!2d-112.09791776249418!3d33.476279192263235!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x872b1253c82c4907%3A0xc29f66f2ac0ff98c!2sEncanto%20Park!5e0!3m2!1sen!2sus!4v1648672269710!5m2!1sen!2sus"   ,
+        "info":"Encanto Park is a public park in central Phoenix, Arizona. This Park has things to do such as picnic areas, a lagoon, a boat house, swimming pool, nature trail, amusement park, fishing and two golf courses. ",
+        "image":"Community/Encanto Park.jpg",
+        "website":"https://www.phoenix.gov/parks/parks/alphabetical/e-parks/encanto-park"
+    },
+    {
+        "name":"Riparian Preserve at Water Ranch",
+        "address":"2757 E Guadalupe Rd, Gilbert, AZ 85234",
+        "map":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3332.255790138638!2d-111.73688138480291!3d33.36438748079862!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x872baeebca8072bb%3A0x9c23649f97e2ebf9!2sRiparian%20Preserve%20at%20Water%20Ranch!5e0!3m2!1sen!2sus!4v1648672382914!5m2!1sen!2sus"   ,
+        "info":"Riparian Preserve at Water Ranch is a lake located in Gilbert, Arizona, United States, east of Greenfield Rd and south of Guadalupe Dr. The Riparian Preserve at Water Ranch is a great place to walk and relax, with many sites and walking areas. ",
+        "image":"Community/Riparian Preserve at Water Ranch.jpg",
+        "website":"https://www.gilbertaz.gov/departments/parks-and-recreation/riparian-preserve-at-water-ranch"
+    },
+    {
+        "name":"Sahuaro Ranch Park",
+        "address": "9802 59th Ave, Glendale, AZ 85302",
+        "map":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3324.1063654335253!2d-112.19282148479732!3d33.57658748073798!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x872b6bcbb5aebb41%3A0xb3dcd40fff1c77fe!2sSahuaro%20Ranch%20Park!5e0!3m2!1sen!2sus!4v1648672493007!5m2!1sen!2sus" ,
+        "info":"This Park is located in Glendale, Arizona and has rich in figs and other fruit orchards, vineyards, and fields of alfalfa. This ranch has sites and arts to see and explore with family and friends!  ",
+        "image":"Community/Sahuaro Ranch Park.jpg",
+        "website":"https://www.glendaleaz.com/Live/Amenities/parks_facilities_trails/regional_parks/sahuaro_ranch_park"
+    },
+    {
+        "name":"Bearizona Wildlife Park",
+        "address": "1500 E Rte 66, Williams, AZ 86046",
+        "map":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3258.1775843243217!2d-112.14994968475291!3d35.25183758029643!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87329e9a64b5e39d%3A0x4846554d1ee76878!2sBearizona%20Wildlife%20Park!5e0!3m2!1sen!2sus!4v1648672612933!5m2!1sen!2sus" ,
+        "info":"This wildlife park has an amazing experience to visit wildlife and animals with family and friends! ",
+        "image":"Community/Bearizona Wildlife Park.jpg",
+        "website":"https://www.bearizona.com/"
+    }
+]

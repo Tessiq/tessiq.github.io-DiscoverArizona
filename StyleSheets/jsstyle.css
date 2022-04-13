@@ -1,0 +1,102 @@
+body {
+  font-family: "Roboto", sans-serif;
+  margin: 0;
+  padding: 0;
+}
+#active {
+  border-bottom: solid red 4px;
+}
+.output {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  align-items: center;
+  row-gap: 70px;
+  background-color: white;
+  padding: 30px 0;
+  border-top: 1px solid white;
+}
+.box {
+  display: flex;
+  flex-direction: row;
+  margin: 0 auto;
+  width: 92%;
+  height: 10%;
+  border: 1px solid grey;
+  background-color: rgb(231, 231, 231);
+}
+.text {
+  width: 70%;
+  padding-left: 30px;
+  border-left: 1px solid black;
+  font-size: 18px;
+}
+.text h2{
+    color:#040e29 ;
+}
+img:hover {
+  cursor: pointer;
+}
+.sidebar{
+  margin: 0;
+  padding: 0%;
+  width: 30%;
+  background-color: #f1f1f1;
+  position: fixed;
+  height: 100%;
+  overflow:hidden;
+}
+#item-image{
+  padding: 0%;
+}
+.map {
+  margin-left: 25%;
+  height: 1000px;
+  border: none;
+}
+.content {
+  padding: 0 20px;
+  font-family: 'Source Serif Pro', serif;
+  font-size: 20px;
+}
+iframe {
+  width: 93%;
+  height: 100%;
+  border: none;
+  margin-left: 6.6%;
+}
+.address {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  column-gap: 10px;
+}
+footer{
+  height: 50px;
+  display: flex;
+  justify-content: center;
+  color: white;
+}
+.container{
+  text-align: center;
+}
+.AZI{
+  font-size: 20px;
+  color: grey;
+}
+.AZT{
+  font-size: 40px;
+}
+.AZT b{
+  color: tomato;
+}
+.nav col-md-4 justify-content-end{
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#dummy{
+  color: white;
+  margin-right: 20px;
+}
+.nav-item{
+  font-size: 20px;
+}

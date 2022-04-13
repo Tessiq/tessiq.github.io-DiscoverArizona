@@ -1,0 +1,98 @@
+[
+    {
+        "name": "Grand Canyon",
+        "address":"Arizona 86052",
+        "map":"https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d412677.66579107265!2d-112.843134!3d36.092409!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x1f38a9bec9912029!2sGrand%20Canyon%20National%20Park!5e0!3m2!1sen!2sus!4v1648501879555!5m2!1sen!2sus",
+        "info":"The Grand Canyon is one of the 7 wonders of the world, being 277 miles long and miles high from the bottom of the canyon with mind blowing rocks to see! The Grand Canyon is one of those things you have to see once in a lifetime with Arizona residents having it next door! ",
+        "image":"Monuments/GC.jpg",
+        "website":"https://www.nps.gov/grca/index.htm"
+    },
+    {
+        "name": "Hoover Dam",
+        "address":"118 Kingman Wash Access Rd, Temple Bar Marina, AZ 86443",
+        "map":"https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3310270.173309563!2d-114.649927!3d35.881218!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x768ab67f480dc6fa!2sHoover%20Dam%20Lookout!5e0!3m2!1sen!2sus!4v1648502044773!5m2!1sen!2sus",
+        "info":"Hoover Dam is a concrete arch-gravity dam in the Black Canyon of the Colorado River, on the border between the U.S. states of Nevada and Arizona. It was constructed between 1931 and 1936. It contains 4,400,000 cubic yards of concrete. Four reinforced-concrete intake towers located above the dam divert water from the reservoir into huge steel pipes called penstocks.",
+        "image":"Monuments/Hoover Dam.jpg",
+        "website":"https://www.usbr.gov/lc/hooverdam/"
+    },
+    {
+        "name":"Glen Canyon National Recreation Area",
+        "address":"4304 Bullfrog, Lake Powell, UT 84533",
+        "map":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3170.131362160328!2d-110.84461438469351!3d37.38672557983188!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8736693644285e99%3A0x5691b154f72a3d20!2sGlen%20Canyon%20National%20Recreation%20Area!5e0!3m2!1sen!2sus!4v1648502384573!5m2!1sen!2sus" ,
+        "info":"Stretching from the beginning of the Grand Canyon at Lees Ferry in Arizona to the Orange Cliffs of southern Utah, Glen Canyon National Recreation Area is an  location for water-based and backcountry recreation. the Glen Canyon National Recreation Area covers 1,254,429 acres of mostly rugged high desert terrain.",
+        "image":"Monuments/Glen Canyon National Recreation Area.jpg",
+        "website":"https://www.nps.gov/glca/index.htm"
+    },
+    {
+        "name":"Casa Grande Ruins National Monument",
+        "address":"1100 W Ruins Dr, Coolidge, AZ 85128",
+        "map":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3346.3154135710574!2d-111.537716884584!3d32.995458880906575!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x872a4105301abcdd%3A0xff191dc8e61f11d4!2sCasa%20Grande%20Ruins%20National%20Monument!5e0!3m2!1sen!2sus!4v1648502558088!5m2!1sen!2sus",
+        "info":"Among these ruins is the Casa Grande, or Big House, one of the largest and most mysterious prehistoric structures ever built in North America. These sandy buildings have very many stories and legends from them to be explored. ",
+        "image":"Monuments/Casa Grande Ruins National Monument.jpg",
+        "website":"https://www.nps.gov/cagr/index.htm"
+    },
+    {
+        "name":"Horseshoe Bend",
+        "address":"Arizona 86040",
+        "map":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d12765.887138990254!2d-111.5191174611651!3d36.879060378916705!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87346ced52b21091%3A0xb623646960566829!2sHorseshoe%20Bend!5e0!3m2!1sen!2sus!4v1648502758876!5m2!1sen!2sus",
+        "info":"a horseshoe-shaped incised meander of the Colorado River, located in the town of Page, Arizona. The hike is about . 6 miles one-way to the overlook. The overlook is about a 1,000' drop, looking down onto the Colorado River.",
+        "image":"Monuments/Horseshoe Bend.jpg",
+        "website":"https://www.papillon.com/lake-powell-page/?ref=vinpaitoon"
+    },
+    {
+        "name":"Tonto National Monument",
+        "address":"26260 AZ-188, Roosevelt, AZ 85545",
+        "map":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3321.337010496829!2d-111.1157519845688!3d33.64842858071772!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x872bdf6db39f3257%3A0xc9c8f2aa7ca43603!2sTonto%20National%20Monument!5e0!3m2!1sen!2sus!4v1648502875446!5m2!1sen!2sus",
+        "info":"Tonto National Monument is a National Monument in the Superstition Mountains, in Gila County of central Arizona. The area lies on the northeastern edge of the Sonoran Desert region, with annual rainfall of about 16 inches",
+        "image":"Monuments/Tonto National Monument.jpg",
+        "website":"https://www.nps.gov/tont/index.htm"  
+    },
+    {
+        "name":"Havasu Falls",
+        "address":"Arizona 86435",
+        "map":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3217.353324060192!2d-112.70006173450574!3d36.25520008006455!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80ccb2097e3e5897%3A0xa18ad2a8c19eaad7!2sHavasu%20Falls!5e0!3m2!1sen!2sus!4v1648502943741!5m2!1sen!2sus",
+        "info":" Havasu Falls is the most famous of the Havasupai waterfalls. However, it is not the first you reach when hiking into the Canyon. It is actually the third waterfall during the hiking journey to Havasupai.",
+        "image":"Monuments/Havasu Falls.jpg",
+        "website":"https://www.visitarizona.com/like-a-local/a-guide-to-visiting-havasu-falls-the-right-way/"
+    },
+    {
+        "name":"Lake Mead Recreational Area",
+        "address":"10 Lakeshore Rd, Boulder City, NV 89005",
+        "map":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d412002.83224695816!2d-114.7478430781067!3d36.220733274442665!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80c92b3473766c93%3A0x6b38aa13f507663c!2sLake%20Mead%20National%20Recreation%20Area!5e0!3m2!1sen!2sus!4v1648504166700!5m2!1sen!2sus" ,
+        "info":"America's First National Recreation Area. landscapes and brilliant blue waters, this year-round playground spreads across 1.5 million acres of mountains, canyons, valleys and two vast lakes.",
+        "image":"Monuments/Lake Mead Recreational Area.jpg",
+        "website":"https://www.nps.gov/lake/index.htm"
+    },
+    {
+        "name":"Taliesin West",
+        "address":"12621 N Frank Lloyd Wright Blvd, Scottsdale, AZ 85259",
+        "map":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3322.9584902863344!2d-111.84737308456982!3d33.606381480729574!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x872b9fcb1b0d2e0f%3A0x2ee9287ee445e0f2!2sTaliesin%20West!5e0!3m2!1sen!2sus!4v1648504253516!5m2!1sen!2sus" ,
+        "info":"Taliesin West is in Scottsdale, Arizona. This monument is a building with amazing history and stories around this monument. Visit to explore Taliesin West and everything behind it.",
+        "image":"Monuments/Taliesin West.jpg",
+        "website":"https://franklloydwright.org/taliesin-west/"
+    },
+    {
+        "name":"Walnut Canyon National Monument",
+        "address": "Walnut Canyon Rd, Flagstaff, AZ 86004",
+        "map":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3261.502795340607!2d-111.50652558453248!3d35.1690188803169!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x872d8d3f61ff90bb%3A0xd80165aeab8c77d0!2sWalnut%20Canyon%20National%20Monument!5e0!3m2!1sen!2sus!4v1648504344094!5m2!1sen!2sus" ,
+        "info":"Walnut Canyon National Monument preserves these cliffside homes, which tell the story of the Ancestral Puebloans of Flagstaff and their influence on Hopi culture today.",
+        "image":"Monuments/Walnut Canyon National Monument.jpg",
+        "website":"https://www.nps.gov/waca/index.htm"
+    },  
+    {
+        "name":"Montezuma Castle National Monument",
+        "address": "Montezuma Castle Rd, Camp Verde, AZ",
+        "map":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d26269.654217100662!2d-111.85249486044923!3d34.611575499999994!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x872daabdb1196721%3A0x8605dcdaba237348!2sMontezuma%20Castle%20National%20Monument!5e0!3m2!1sen!2sus!4v1648504428312!5m2!1sen!2sus",
+        "info":"Montezuma Castle is the third National Monument dedicated to preserving Native American culture. apartment, nestled into a towering limestone cliff, tells a story of ingenuity, survival and ultimately, prosperity in an unforgiving desert landscape.",
+        "image":"Monuments/Montezuma Castle National Monument.jpg",
+        "website":"https://www.nps.gov/moca/index.htm"
+    },
+    {
+        "name":"Antelope Canyon",
+        "address": "Arizona 86040",
+        "map":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d25530.632930357253!2d-111.41187678419543!3d36.88247416561317!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x873411f49ba00e0b%3A0x98361608ad6aa79b!2sAntelope%20Canyon!5e0!3m2!1sen!2sus!4v1648504516196!5m2!1sen!2sus" ,
+        "info":"Navajo Upper Antelope Canyon is a slot canyon in the American Southwest, on Navajo land east of Lechee, Arizona. It includes five separate, scenic slot canyon sections to explore at Antelope Canyon. ",
+        "image":"Monuments/Antelope Canyon.jpg",
+        "website":"https://www.antelopecanyon.com/"
+    }
+]

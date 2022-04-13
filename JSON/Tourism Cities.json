@@ -1,0 +1,82 @@
+[
+    {
+        "name": "Sedona",
+        "address":"Arizona 86336",
+        "map":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d52385.180505954886!2d-111.83015787885898!3d34.85437338106621!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x872da132f942b00d%3A0x5548c523fa6c8efd!2sSedona%2C%20AZ%2086336!5e0!3m2!1sen!2sus!4v1648586248692!5m2!1sen!2sus",
+        "info":"Sedona is an Arizona desert town near Flagstaff that’s surrounded by red-rock buttes, steep canyon walls and pine forests. Sedona is also known for its amazing and natural rocks, where hiking and exploring is encouraged.",
+        "image":"Cities/Sedona.jpg",
+        "website":"https://visitsedona.com/"
+    },
+    {
+        "name": "Tucson",
+        "address":"255 W Alameda St, Tucson, AZ 85701",
+        "map":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d216178.87412737272!2d-111.02388908943365!3d32.155832838586896!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x86d665410b2ced2b%3A0x73c32d384d16c715!2sTucson%2C%20AZ!5e0!3m2!1sen!2sus!4v1648586534051!5m2!1sen!2sus" ,
+        "info":"Tucson is a city in and the county seat of Pima County, Arizona, United States, It is the second largest city in Arizona, with a population of 542,629 in the 2020 United States Census, while the population of the entire Tucson metropolitan statistical area is 1,043,433.",
+        "image":"Cities/Tucson.jpg",
+        "website":"https://www.tucsonaz.gov/"
+    },
+    {
+        "name":"Phoenix",
+        "address":"411 N Central Ave Ste 935, Phoenix, AZ 85004",
+        "map":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d425345.0131212273!2d-112.40523545699165!3d33.60509910362973!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x872b12ed50a179cb%3A0x8c69c7f8354a1bac!2sPhoenix%2C%20AZ!5e0!3m2!1sen!2sus!4v1648586661238!5m2!1sen!2sus",
+        "info":"Phoenix is the capital of the state of Arizona. Known for its year-round sun and warm temperatures,  With many restaurants, clubs and parties to explore in Phoenix. Phoenix has a population of 1.633 million people currently living there.",
+        "image":"Cities/Phoenix.jpg",
+        "website":"https://www.phoenix.gov/"
+    },
+    {
+        "name":"Chandler",
+        "address":"401 E Lincoln Ave, Chandler, IN 47610",
+        "map":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d106732.06512803715!2d-111.93389286325015!3d33.28279786086354!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x872a55595c22b693%3A0x386ce373138cfdf0!2sChandler%2C%20AZ!5e0!3m2!1sen!2sus!4v1648586807034!5m2!1sen!2sus",
+        "info":"Chandler is a city southeast of Phoenix, in Arizona. It includes many rides, parks and Waterparks for enjoyment. This city is great for family and friends to enjoy all around. Chandler has a population of 252,692 people currently living there." ,
+        "image":"Cities/CHandler.jpg",
+        "website":"https://www.visitchandler.com/?gclid=Cj0KCQjw3IqSBhCoARIsAMBkTb3NIdxl6qyQwwTLEW761hDn6CKLF26arUpJEdkKGgAfq2paLnG8yb4aAtdZEALw_wcB"
+    },
+    {
+        "name":"Bisbee",
+        "address":"915 Tovreaville Rd, Bisbee, AZ 85603",
+        "map":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d54476.637514795555!2d-109.94540149949674!3d31.41991573902169!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x86d0b4b81ce1d82f%3A0x65ccff4c7c366b1a!2sBisbee%2C%20AZ%2085603!5e0!3m2!1sen!2sus!4v1648586948128!5m2!1sen!2sus",
+        "info":"Bisbee is a city in the Mule Mountains of southeast Arizona. This city is known for the mines and very vintages houses and museums. Bisbee is a place for many people to look at the agricultural side of Arizona. Bisbee has a smaller population of 5,203 people living there currently." ,
+        "image":"Cities/Bisbbe.jpg",
+        "website":"https://www.bisbeeaz.gov/"
+    },
+    {
+        "name":"Tombstone",
+        "address":"613 E Allen St, Tombstone, AZ 85638",
+        "map":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d27151.472184322258!2d-110.08044559212162!3d31.717697203490555!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x86d73bf34f9af3b9%3A0x9af6f593bb45fc15!2sTombstone%2C%20AZ%2085638!5e0!3m2!1sen!2sus!4v1648587155554!5m2!1sen!2sus" ,
+        "info":"Tombstone is a town in southeastern Arizona, known for its Wild West history. This city has many haunted areas and wild west culture with a scenery that looks like a movie! Tombstone has a current population of 1,209 of people living there." ,
+        "image":"Cities/Tombstone.jpg",
+        "website":"https://tombstoneweb.com/"
+    },
+    {
+        "name":"Flagstaff",
+        "address":"211 W Aspen Ave, Flagstaff, AZ 86001",
+        "map":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d104352.46882092727!2d-111.67799886548927!3d35.181187390308736!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x872d8ef7da2e2631%3A0x8e1f3ca1cedbb300!2sFlagstaff%2C%20AZ!5e0!3m2!1sen!2sus!4v1648587230791!5m2!1sen!2sus" ,
+        "info":"Flagstaff is a city in the U.S. state of Arizona, surrounded by mountains, desert and ponderosa pine forests. Flagstaff is very known for its snow and chilly weather, with many activites. Flagstaff has a population of 72,402 people currently living there." ,
+        "image":"Cities/Flagstaff.jpg",
+        "website":"https://www.flagstaff.az.gov/"
+    },
+    {
+        "name":"Prescott",
+        "address":"7501 Skoog Blvd, Prescott Valley, AZ 86314",
+        "map":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d105098.14250627495!2d-112.52391043045175!3d34.59614594139695!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x872d28d400717ceb%3A0x9a43de752eefedd!2sPrescott%2C%20AZ!5e0!3m2!1sen!2sus!4v1648587401015!5m2!1sen!2sus"  ,
+        "info":"Prescott is a city in central Arizona. Prescott is one of the more richer and productive Arizona cities with many skyscrapers and buildings. Prescott has a population of 42,785 people currently living in Prescott.",
+        "image":"Cities/Prescott.jpg",
+        "website":"https://www.prescott-az.gov/"
+    },
+    {
+        "name":"Yuma",
+        "address":"One City Plaza, Yuma, AZ 85364",
+        "map":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d215105.3946458968!2d-114.71214204481868!3d32.605602715453905!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80d66287214dadd9%3A0xcfa93a07f59e4258!2sYuma%2C%20AZ!5e0!3m2!1sen!2sus!4v1648587522687!5m2!1sen!2sus"  ,
+        "info":"Yuma is a city in southwest Arizona. Overlooking the Colorado River, Yuma is known for being hot and having alot of parks to explore! Yuma has famous railroads and many other things to visit. Yuma has a population of 96,349 people currently living there. ",
+        "image":"Cities/Yuma.jpg",
+        "website":"https://www.yumaaz.gov/"
+    },
+    {
+        "name":"Glendale",
+        "address": "5850 W Glendale Ave, Glendale, AZ 85301",
+        "map":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d106338.86219045073!2d-112.37649145535568!3d33.6029836669546!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x872b23272d679d37%3A0x9f14430b838d3b54!2sGlendale%2C%20AZ!5e0!3m2!1sen!2sus!4v1648587627542!5m2!1sen!2sus" ,
+        "info":"Glendale is a city in Maricopa County, Arizona, United States, located approximately nine miles northwest of Downtown Phoenix. Glendale has very much stores and malls to shop in, with parks and attractions as well. Glendale has a population of 252,381 currently living there.",
+        "image":"Cities/Glendale.jpg",
+        "website":"https://www.glendaleaz.com/"
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "name":"Arizona State University",
+        "address":"Tempe, AZ 85281",
+        "map":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d425693.2138671441!2d-112.53782794357421!3d33.534450795171644!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x872b08db3b33540f%3A0x666e717f473c3033!2sArizona%20State%20University!5e0!3m2!1sen!2sus!4v1648673476677!5m2!1sen!2sus" ,
+        "info":"Arizona State University is a public research university in the Phoenix metropolitan area. ASU is one of the largest public universities by enrollment in the U.S. " ,
+        "image":"Colleges/Arizona State University.jpg",
+        "website":"https://www.asu.edu/"
+    },
+    {
+        "name":"University of Arizona",
+        "address":"Tucson, AZ 85721",
+        "map":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3374.9733115321415!2d-110.9522980848317!3d32.23188508114!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x86d671aaee5d9a4d%3A0x8c5868c06440cf66!2sThe%20University%20of%20Arizona!5e0!3m2!1sen!2sus!4v1648673619000!5m2!1sen!2sus"  ,
+        "info":"The University of Arizona is a public land-grant research university in Tucson, Arizona. The university is part of the Association of American Universities and the Universities Research Association. The University of Arizona is a good school to get a solid education! " ,
+        "image":"Colleges/University of Arizona.jpg",
+        "website":"https://www.arizona.edu/"
+    },
+    {
+        "name":"Northern Arizona University",
+        "address":"S San Francisco St, Flagstaff, AZ 86011",
+        "map":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3261.0446295232614!2d-111.65615698475489!3d35.18044018031411!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x872d8f6564ff20dd%3A0x4be562b87e565be9!2sNorthern%20Arizona%20University!5e0!3m2!1sen!2sus!4v1648673843579!5m2!1sen!2sus" ,
+        "info":"Northern Arizona University is a public research university based in Flagstaff, Arizona. Northern Arizona University is a great open college with a high acceptance rate to get into. " ,
+        "image":"Colleges/Northern Arizona University.jpg",
+        "website":"https://nau.edu/"
+    },
+    {
+        "name":"Grand Canyon University",
+        "address":"3300 W Camelback Rd, Phoenix, AZ 85017",
+        "map":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3326.6672328627874!2d-112.13104748479907!3d33.51003388075691!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x872b134e1477bb8f%3A0xcecfbfb0309421b5!2sGrand%20Canyon%20University!5e0!3m2!1sen!2sus!4v1648673938242!5m2!1sen!2sus"   ,
+        "info":"Grand Canyon University is a private for-profit Christian university in Phoenix, Arizona. Based on student enrollment, Grand Canyon University was the largest Christian university in the world in 2018, with 20,000 attending students on campus and 70,000 online. ",
+        "image":"Colleges/Grand Canyon University.jpg",
+        "website":"https://www.gcu.edu/"
+    }
+]
